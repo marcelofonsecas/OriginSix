@@ -232,7 +232,7 @@ text-align: center;
 #contact .button i,
 #contact ul li i { font-size: 1.5rem; margin-right: 0.625rem;}
 #contact ul.grid {gap: 2rem;}
-#contact ul li i { color:var(--base-color); margin: top 20px;}
+#contact .links ul li i { color:var(--base-color); margin: top 20px;}
 
 /* ========FOOTER, RODAPÉ =========*/
 footer { background: var(--base-color);}
