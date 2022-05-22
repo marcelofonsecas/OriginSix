@@ -295,4 +295,4 @@ footer .social a:hover { transform: translateY(-15px); }
     }
 }
 @media(max-width: 568px) { 
-    nav.show div.icon-Group-4 { visibility: 1; opacity: 1; } }
+    nav div.icon-Group-4 { visibility: 1; opacity: 1; } }
